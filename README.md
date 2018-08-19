@@ -1,9 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Author
-
-Christophe Dutang \[aut, cre\], Arthur Charpentier \[ctb\]
+This is a fork of version 1.6 of the package to make it more readily
+available. \# Author Christophe Dutang \[aut, cre\], Arthur Charpentier
+\[ctb\]
 
 # Maintainer
 

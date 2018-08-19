@@ -10,6 +10,7 @@ knitr::opts_chunk$set(
   fig.path = "README-"
 )
 ```
+This is a fork of version 1.6 of the package to make it more readily available.
 # Author
 Christophe Dutang [aut, cre], Arthur Charpentier [ctb]
 
